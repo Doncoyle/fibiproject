@@ -1,7 +1,7 @@
 export default function HowItWorks() {
   const steps = [
     { num: 1, title: 'Browse Land', desc: 'Explore vetted land parcels with projected returns.' },
-    { num: 2, title: 'Invest Together', desc: 'Pool capital with other investors. Minimum $500.' },
+    { num: 2, title: 'Invest Together', desc: 'Pool capital with other investors. Minimum $700.' },
     { num: 3, title: 'Build Sustainably', desc: 'Eco-cabins, solar farms, or agroforestry added.' },
     { num: 4, title: 'Earn Monthly', desc: 'Receive passive income from rentals or operations.' },
   ];

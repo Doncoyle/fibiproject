@@ -8,7 +8,7 @@ export default function Footer() {
           For Investors By Investors — Building sustainable wealth, together.
         </p>
         <p className="text-gray-500 text-sm">
-          © 2026 FIBI. All rights reserved. Not a registered investment advisor.
+          © 2026FIBI. All rights reserved. Not a registered investment advisor.
         </p>
       </div>
     </footer>
