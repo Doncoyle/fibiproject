@@ -18,7 +18,7 @@ export default function HeroAdmin() {
             label="Investment Images"
             value={images}
             onChange={setImages}
-            maxImages={5} 
+            maxImages={6} 
         />
 
         <button className="bg-emerald-600 text-white px-6 py-3 rounded">

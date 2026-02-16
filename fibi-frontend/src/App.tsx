@@ -57,7 +57,14 @@
 //     </BrowserRouter>
 //   );
 // }
+import { Link } from 'react-router-dom';
 
+// Inside your Navbar return:
+<Link to="/login">
+  <button className="bg-green-500 text-white px-4 py-2 rounded-lg font-bold">
+    Join an Investment
+  </button>
+</Link>
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AdminRoutes from "./admin/AdminRoutes";
 import PublicRoutes from "./PublicRoutes";
